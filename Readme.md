@@ -1,4 +1,3 @@
-
 # Jog-middleware
 
   jog json logger middleware for Connect / Express .
