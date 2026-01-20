@@ -1,0 +1,14 @@
+
+{
+  "name": "jog-middleware",
+  "version": "0.0.1",
+  "description": "jog json logger middleware for Connect / Express",
+  "keywords": ["jog", "json", "logger", "logging", "connect", "express", "middleware"],
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
