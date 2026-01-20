@@ -1,7 +1,7 @@
 
 # Jog-middleware
 
-  jog json logger middleware for Connect / Express
+  jog json logger middleware for Connect / Express .
 
 ## Installation
 
